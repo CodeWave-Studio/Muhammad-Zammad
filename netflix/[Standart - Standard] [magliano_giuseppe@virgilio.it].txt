@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1664984838	OptanonAlertBoxClosed	2021-10-05T15:47:18.015Z
+.netflix.com	TRUE	/	FALSE	1696562742	dsca	anonymous
+www.netflix.com	FALSE	/	FALSE	1650728858	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1666945159	nfvdid	BQFmAAEBEHMKOVWmehewysDmu82-k1FgUk9stSx5jxzFxlFZqmwCWcYNYfFspCwAZOoYwKqVFFnEnUnfaTLnmvG3Gyb_MlbixwulRhwqYHtadq8maXgX1srsEF7GAp-zrmxuW1Qm8d5gTi-FsmsC_VlLtQIctRl8
+.netflix.com	TRUE	/	FALSE	1646855665	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1646855665	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1670615666	OptanonConsent	isIABGlobal=false&datestamp=Thu+Dec+09+2021+20%3A54%3A26+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=6.6.0&consentId=d5fd4b71-e786-4e26-94bb-85a1c8097b93&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1&geolocation=IT%3B78&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1670616280	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRIgAirtz-lPnPx6_nTV4D0zmOMbHZSm30.%26dt%3D1639080280885
+.netflix.com	TRUE	/	FALSE	1670616280	NetflixId	v%3D2%26ct%3DBQAOAAEBECX4c6_qQPI1yab9JIROHPCB0FFtG8vflJveoaKm56bwo_4FYjOx4_-FEKYB04wd9_yX044OdPqkgC-4Io1zQfheWf800aezp1NvonJaJBwMjNbYEey2bUApVQJvnqdcv3GEe-jy41YmbUloNpOqkE5lu4Z0UXN9ODqGdAAkBwuUxUppAmH36RNkqv1v-ZlZkgPJAuyMi7w-BzsETeCHep6nEdCTIUOKZAz4L1ht-2JUGNN30Tz3iHyMsJkptWnZDgocqjqExlRo-XsJFNdT7A2kQqp-qGoTHNCFSn1IVMFgEXKJriUFN_EdNN-ZkTzdnBNdSIN5Zdaq-yPaD5-a8faPUPZ8K_sW9NLk6TgnIrqSsrwrcTK2mxgCf7Y6CNOyoozkEdEbJUDapcajIQaS33qwEPdQtTcV4_i3UgEYC-UEJUnFhiKOJIZuwBP5hN94zZZfuqHau4JwsKA2WkK5hFdYLBU9NHSs8g7eMBC1Hop0Yt-5tXFWYdvGu9kvIqTmSNPpJth3jaEaxH6_O8Ua0Dk5YkIuAOGE_I_fot1u4TBD4-Jr1sBvZ6tdjZLy31b48SQ2TFljgMCRqzXi39RbCY3w4IYa7ZkAYREUoqmXDeLuQzj4-dg8LZFUqeHY_tPLsDgm%26bt%3Ddbl%26ch%3DAQEAEAABABRzxS3mEzRFgVQlC7Jy3g8hORyORrQybEw.%26mac%3DAQEAEAABABSp34g5ePfPRm8DaSEM7GRXjDqOPMyZ4DY.
+.netflix.com	TRUE	/	FALSE	1670658700	memclid	90a60920-a202-455a-bba2-87a352243444
+.netflix.com	TRUE	/	FALSE	1646898815	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A19515.4%2C%22throughputNiqr%22%3A0.6946616912847613%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A18725.9%2C%22throughputNiqr%22%3A0.6528426377645534%7D%7D

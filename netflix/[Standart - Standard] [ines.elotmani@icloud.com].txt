@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1685899789	OptanonAlertBoxClosed	2022-06-04T17:29:49.561Z
+.netflix.com	TRUE	/	FALSE	1717477693	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1686303858	nfvdid	BQFmAAEBEKv_Uo7o9oncLvYnZh-QSzJgvMGiD0cwYsJRbPX5CMCGTcy1XQw5BcnWK07TomJ4jqIp-HOyUl8LRwc0QX3Ci_KQVAirfAdRkjQvmxfVEBf1uzDXVInF5wdUBq4MsoA2NeWtHeUegPnn4BMfaoIq1zxv
+.netflix.com	TRUE	/	FALSE	1656098363	flwssn	1cef9847-dec0-4149-849f-58d90450cf11
+.netflix.com	TRUE	/	FALSE	1687623562	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQvwDHDID0lOCEz3AX7w5QYeq_9397MyiU.%26dt%3D1656087562561
+.netflix.com	TRUE	/	FALSE	1687623562	NetflixId	ct%3DBQAOAAEBEKBVzvGdbTjARs25IcCgS9-CYKDTTeE2QbdbQlpd3iDwETJ9zDImIDipxdiSQcof9dKCQyrye5w69vszyBoWlmevGyoTuAmSG_YE-dzzSoxMq8lZYkgSSLfXzOfZBvA1zT0_pjHVMj4ohuta5BxRdPEwU-j9wpuUCwmozjjZq-adCn2w1k-F5Mjso_OGh4JFrIh13957gOQXKz5l5VKNbwJiiq1l3Wyk5w1cbsFW79OwBVf5TbfW4kz3tyRBZUnvdbHveOxENhtC1o9o-KZhhfFPYlcD7prM2QLAIZtNKSOcsg1ex2_WnIgmgaHrahkILnok9hDu7wQyXB5aOuKxnj2v_gps00UYleF6ukTW7Fo5s9LdQbxL_iyPJS1BDFquWJCBjh3iErIE0J43yFU45pGC9gGRaQMMEsWgxQAhkjc6v_qmMdu6xda0EdYMF4Nh4weL56mYdjKapgUSATx4BopddQzr2uc_YYeYz2yYPlTeb-EF6AuhrUIzZB0uoWqnDnbb51M-ke9uhNc-YPbcEauFBetdCXzNZ0t7n-yP0EbNV3mwjGv2iMB17jxGMdy9JVGcqDh9clg-1muhQYMp3xsK_RpzX8C2HSlcnANg1NbI1ltd-zYjE_5Ve2eEhwKbS_2oOtDiBOf619jnP1xQ0vg-y4yn5LfubwzyoWlCe-XT4daq1V0It1lGsehzotIOXl1JtKxUZQs923gJpxjUOLg68adkiStfBX4qG72yaUVz-ldjJipf03Kb9d5XTEBt0xeLicomNI3arX8UobJ8BKbvmcncy52b5oab2v6kz13PRDWGo7VAv7IY-pJ3spSB-LDK%26bt%3Ddbl%26ch%3DAQEAEAABABQjEDYkPzCQr8_nQQ_SPwqlebep4qIwxX0.%26v%3D2%26mac%3DAQEAEAABABTxr1s8oTlM46dKXyxsR6TYGTwpd19rlcU.
+.netflix.com	TRUE	/	FALSE	1663863564	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1663863564	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1687623564	OptanonConsent	isIABGlobal=false&datestamp=Fri+Jun+24+2022+18%3A19%3A24+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=6.6.0&consentId=f6b98e66-7472-4aaf-914f-068ab78918a8&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1&hosts=H12%3A1%2CH13%3A1%2CH51%3A1%2CH45%3A1%2CH46%3A1%2CH48%3A1%2CH49%3A1%2CH52%3A1&geolocation=FR%3BCVL&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1656090327	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1687624533	memclid	c9043299-3575-4279-94fa-4f76beeebbc4

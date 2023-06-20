@@ -1,0 +1,12 @@
+www.netflix.com	FALSE	/	FALSE	1671885457	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1717719361	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1686141591	nfvdid	BQFmAAEBEEbQuzfFXWVrMeMJ8K8X8NtgX4nfwgwUUlKXX0N7GTn-MO7ogQ0NqH86qL6vSuTSZHW0wTHWIKJUrVE9JfcKp7tpJ46aywogUPcpIe-gnPV2a_q4ieD_sKrF4POYCVT86rEkci9sEkpz9AhfYpnY3QOk
+.netflix.com	TRUE	/	FALSE	1688725847	NetflixId	ct%3DBQAOAAEBELT27F4xagwEZXAHl5cFNiWCUMnpEw9SabJaezFeibk9EbUR0vocbXONXvHag1qoO4ynqNRx5Xl85HjyKd43YthJ4Ez4pNKhG3Pe8ldnIDmqAK-Wld0SbnhV4iotjvg03T0-yZQH8fTsQw5EDe4YPDY2rcTmmTEWV5a-currkmcZ-er_zJCGNg2N-U1gEZ5Zlj5kYU7O_srFBguemnfZ6XW7S1cGBHFQ1B-_GOPe01ZPKiPS4GLWNbEm_j_3M6wDDkCpoBC38GEJ3x-JV661fDNtoVhr9O_MBBUqAQNHADu9b4mlBTRj8tq7sjQR_zA5wvGEYRGX44WRHRJV0P4tKQ5vqpz1O_Zno0fj9GXIlo3ctrAHuU8Cok078eP1tIdwGcnXj1iJaSXi41fcbWSaim0k6D3mwdD078XzFspKCC9nIE1TZFAE9LjfEscVBvfXgczlhcywTgzl1VMggLuFYDkwMf6NrHr-ado5l0ADHuePRgs0qDZ0Z0TAuDB2xUd8D9u-K1OCXpq82le-9w-94v63Q4VqReiQYWh8kh8tUjX-seIc88JF1dB212btTuOVnM0Yk7kNNTXS6Y53ahCytrpUVwrYTbq9N6RwTTbLKAa84ySfzcsS728XmRQHhHdexI_GpArowph2FRTGHOzt2DjH7oQ4rShFYv1ksPM3lerlLGGvd8y0psl7XfpcD3FAVJOyqdyKr1AVuwij7EkeZpdPmSbkrm-Y1eBjjw7GGm3K0lutYAZYzd7wUCa8s4KfLQSUcBH-Ev9lv5e5kksi3r9UdRSEw--iNnfUXjc1jYeVFFQ.%26bt%3Ddbl%26ch%3DAQEAEAABABRbMo3NU-CJy2Lfg6MFr1CAvYuJSqaVMAY.%26v%3D2%26mac%3DAQEAEAABABT7fQuNOEfZY0kgcxFpvFA5NLpa0cVIDzo.
+.netflix.com	TRUE	/	FALSE	1688725847	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTp_qXsg-Qj1dnuE3AbiLygJqYeun7S5Q8.%26dt%3D1657189846394
+.netflix.com	TRUE	/	FALSE	1688737211	OptanonConsent	isIABGlobal=false&datestamp=Thu+Jul+07+2022+15%3A40%3A11+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=6.6.0&consentId=d8af8cfd-6d1b-4ab9-8732-35fbbff3452d&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1&hosts=H12%3A1%2CH13%3A1%2CH51%3A1%2CH45%3A1%2CH46%3A1%2CH48%3A1%2CH49%3A1%2CH52%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1657212009	flwssn	389a38ab-8bfb-416d-ad12-b696f196a3c9
+.netflix.com	TRUE	/	FALSE	1664977210	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1664977210	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1664977210	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1657204216	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1688738455	memclid	f0c8492e-5227-485e-9133-d2e426a32cd4

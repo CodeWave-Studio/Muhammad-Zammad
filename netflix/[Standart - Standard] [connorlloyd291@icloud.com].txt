@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1663409448	hasSeenCookieDisclosure	true
+www.netflix.com	FALSE	/	FALSE	1664143626	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1663409448	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1663409448	netflix-sans-bold-3-loaded	true
+secured.netflix.com	FALSE	/	FALSE	1709071649	thx_guid	0273c668d2f1430b8b20e4d02488128d
+.netflix.com	TRUE	/	FALSE	1716815179	dsca	customer
+.netflix.com	TRUE	/	FALSE	1685441914	OptanonAlertBoxClosed	2022-05-30T10:18:34.778Z
+.netflix.com	TRUE	/	FALSE	1687169449	memclid	7d829796-e7f6-40ec-b291-706f5efd80c5
+.netflix.com	TRUE	/	FALSE	1687647379	nfvdid	BQFmAAEBEMZD-suqpOOIjd5aeJ8GC9pgKVs360QKhC8WOVq5oi26kE74KmZPhMzDBxWRR7Ubsyv1SszV6Fjp5PtNxgTLskxDYjf0MkOiMgRUrnG2qvJryOesP4auQ0PzlrWq5u2Bj9b3Hbx7L-3dzUVU0813-VIJ
+.netflix.com	TRUE	/	FALSE	1687692057	NetflixId	ct%3DBQAOAAEBEByfRfX3x34emplCtE8se3GB8GEJOBV70dsFpAwuHYzeDev8UQascIFTj2LWjtGYVa7xZoucJqjQ3Opn7OxlKUpqnskXLUC6gp4h-auUA5H0aSb2qtO7uIBRp2tPqTwLFU2gv65pLwufLfPIGZG8FR55EFn-dJIzq6FyMNSn5Q94sq0GiBzxswvptCUlFD138reurUPWF47p8fv_louozS5970G4458hK3sacg3GyvE3Sud6ekPjzZmnUpSmLaphlFf4zPaEkbO8sIjOLZIqQcUMKDvvuJr2isDjoQSuVKmxX1YGUBF_LHj0nzKckuJjcRP5vPX3jkTqDBUJ9lfEOlI4ZDi_erjpjHuuCsjVbt_cttIOLUoYHwh8ecffRBb2eepYOvfDgY-MSvuqhIU9FS69GfiKMlxj_a2tyIvLZLmq5Y4jcWN6kCeKf6kRbriiOvOJnm-pi_QAJZJBPn8vQBWuVvpMAEgQacLwqbWIWgQJ4tuBT38yt_536UOCf1mdxzyGVa3JA-ToHrDJBPjTdGd8JWEYP_ikAED3TECxwOFxMOL3sooXfn4qFptDxfRUOIF3HmTznJT30oTobrJwG2loQoTZhe4z_B1ahM5s04BP9vhPxOFddTldBKc6yhtuCXnJeF8WekwsHfplL25-ZZwjpo8-2a5PoO3DDgIUOpk1mac.%26bt%3Ddbl%26ch%3DAQEAEAABABSZVXbMiLoa97V2To11v9NFiBOBhc3WdFQ.%26v%3D2%26mac%3DAQEAEAABABRhvHgGAIMVqaQOsmAv9WVq4dfGZ7-WBzQ.
+.netflix.com	TRUE	/	FALSE	1687692057	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRgaqt_m9nhmfTqwr1J0wutP9gl_4QoOws.%26dt%3D1656156057996
+.netflix.com	TRUE	/	FALSE	1687694083	OptanonConsent	isIABGlobal=false&datestamp=Sat+Jun+25+2022+12%3A54%3A43+GMT%2B0100+(British+Summer+Time)&version=6.6.0&consentId=1e01038c-d428-40c2-8512-740d5302a5ef&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1&hosts=H12%3A1%2CH13%3A1%2CH51%3A1%2CH45%3A1%2CH46%3A1%2CH48%3A1%2CH49%3A1%2CH52%3A1&AwaitingReconsent=false
