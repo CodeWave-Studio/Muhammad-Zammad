@@ -1,0 +1,147 @@
+.body {
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.support-section 
+{
+    background-color: #001232 !important;
+    width: 100%;
+    height: auto;
+}
+
+.house-icon
+{
+    color: white;
+    font-size: 12px;
+    border-right: 1px solid red;
+    padding: 15px 20px 15px 20px;
+}
+.support-section2
+{
+    display: flex;
+}
+
+.topnav3 {
+    width: 100% !important;
+}
+.nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.nav>li {
+    position: relative;
+    display: block;
+}
+.custom-dropdown {
+    border: 1px solid #3d367a;
+    border-radius: 5px;
+    padding: 4px;
+    margin: 1px;
+    color: #fff;
+    background: #3d367a;
+}
+.nav>li>a {
+    position: relative;
+    display: flex;
+    color: white;
+    padding: 8px 20px;
+}
+.nav-link {
+    /* display: block; */
+    padding: 0.5rem 1rem;
+    /* color: #0d6efd; */
+    /* text-decoration: none; */
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+.menu-icon
+{
+    margin-right: 8px;
+}
+
+.dropdown-section 
+{
+    background-color: #f8f9fa!important;
+    width: 100%;
+    height: 700px;
+}
+
+.cleint-registration
+{
+    color: white;
+    background-color: #3d367a;
+    border-left: 5px solid green;
+    padding: 7px 10px 7px 20px;
+    width: 50%;
+}
+.cleint-registration2 
+{
+    background-color: #f8f9fa;
+    width: 100%;
+}
+
+.cleint-registration-section {
+    /* box-shadow: 0 0 0 0 rgba(90, 113, 208, 0.11), 0 4px 16px 0 rgba(167, 175, 183, 0.33); */
+    -webkit-box-shadow: 0 0 0 0 rgba(90, 113, 208, 0.11), 0 4px 16px 0 rgba(167, 175, 183, 0.33);
+    -moz-box-shadow: 0 0 0 0 rgba(90, 113, 208, 0.11), 0 4px 16px 0 rgba(167, 175, 183, 0.33);
+    -ms-box-shadow: 0 0 0 0 rgba(90, 113, 208, 0.11), 0 4px 16px 0 rgba(167, 175, 183, 0.33);
+    background-color: white;
+    padding: 40px 20px 40px 20px;
+}
+.date{
+    right: 12rem;
+    float: right;
+    justify-content: right;
+    
+}
+.branch-text h4 
+{
+    font-size: 20px;
+    color: black;
+}
+.branch-text
+{
+    padding: 30px 20px 30px 20px;
+    border: 1px solid gray;
+}
+.col{
+    padding: 10px;
+}
+.Product{
+    padding: 10px;
+}
+.form-control{
+    padding: 5px;
+}
+.para{
+    color: red;   
+}
+#span{
+    color: red;
+}
+.btn{
+    color: #fff;
+    background-color: #337ab7;
+    border-radius: 0;
+    box-shadow: 3px 3px 10px 0 rgba(0, 168, 89, 0.8);
+    perspective: 300px;
+    z-index: 1;
+    position: relative;
+    transition: all 0.3s ease 0s;
+}
+.footer{
+    padding: 40px  90px;
+    display: block;
+    text-align: center;
+    justify-content: baseline;
+    background-color: #47b85d;
+}
+#footer-header{
+    color: #fff;
+}
